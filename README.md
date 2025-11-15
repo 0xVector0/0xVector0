@@ -11,15 +11,20 @@
 
 ---
 
-## Featured Projects
-
----
-
 ## Roadmap 2025–2026
-- Expand Order Book engine in Rust with multi-threaded market simulation
-- Build real-time Solana AMM monitoring and live arbitrage opportunities
-- Research advanced market-making strategies
-- Explore new quant models and statistical finance projects
-- Contribute to open-source blockchain tools and libraries
 
+- **Statistical Arbitrage Bot (Pairs Trading)**  
+  Build and backtest a Python bot for statistical arbitrage on crypto pairs, exploring correlations and trading strategies.  
+
+- **Mini Order Book Engine**  
+  Implement a simulated order book and matching engine to understand market microstructure and order execution logic.  
+
+- **Triangular Arbitrage on Solana**  
+  Develop a bot to detect and simulate triangular arbitrage opportunities on Solana AMMs using TypeScript.  
+
+- **AMM Simulator (Uniswap-style)**  
+  Create a Python/Rust simulator for automated market makers, liquidity pools, and impermanent loss analysis.  
+
+- **Crypto Market Maker Bot (Simulation)**  
+  Build a simulated market making bot to test inventory management, dynamic spreads, and profitability in different market conditions.  
 ---
