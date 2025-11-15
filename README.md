@@ -1,16 +1,25 @@
-## Hi there 👋
+# 0xVector0
+**Quantitative Developer | Algo Trading | Blockchain Research**
 
-<!--
-**0xVector0/0xVector0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, Rust, TypeScript
+- **Finance:** Statistical Arbitrage (Pair trading), 
+- **Blockchain:** Solana, Crypto Trading Bots,
+- **Tools:** NumPy, Pandas, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+---
+
+## Roadmap 2025–2026
+- Expand Order Book engine in Rust with multi-threaded market simulation
+- Build real-time Solana AMM monitoring and live arbitrage opportunities
+- Research advanced market-making strategies
+- Explore new quant models and statistical finance projects
+- Contribute to open-source blockchain tools and libraries
+
+---
