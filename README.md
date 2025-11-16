@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Vector!
 
-### 🚀 15-year-old Quantitative Developer & Blockchain Enthusiast
+### 15-year-old Quantitative Developer & Blockchain Enthusiast
 
 *Building the future of finance, one algorithm at a time*
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 Hey! I'm a passionate 15-year-old student diving deep into the intersection of **quantitative finance** and **blockchain technology**. Currently in high school, I'm building my skills in algorithmic trading, DeFi protocols, and financial modeling to pursue a career in quantitative development.
 
@@ -21,16 +21,16 @@ Hey! I'm a passionate 15-year-old student diving deep into the intersection of *
 class Vector:
     def __init__(self):
         self.age = 15
-        self.location = "🌍"
+        self.location = "🇫🇷"
         self.interests = ["Quantitative Finance", "Blockchain", "Machine Learning"]
-        self.goal = "Build innovative financial algorithms"
-        self.currently_learning = ["Advanced Statistics", "Market Microstructure", "DeFi Protocols"]
+        self.goal = "Build working financial algorithms"
+        self.currently_learning = ["Statistical arbitrage"]
     
     def get_motto(self):
-        return "Code the markets, trade the future! 📈"
+        return "Code the markets, trade the future!"
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -89,10 +89,10 @@ class Vector:
 </tr>
 </table>
 
-## 🗺️ Learning Roadmap 2025-2026
+## Learning Roadmap 2025-2026
 
 <details>
-<summary><b>🎯 Click to view my ambitious learning plan!</b></summary>
+<summary><b> Click to view my roadmap </b></summary>
 
 ### Q1 2025: Foundation Building
 - [ ] **Statistical Arbitrage Bot (Pairs Trading)**  
@@ -120,7 +120,7 @@ class Vector:
 
 </details>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -129,41 +129,12 @@ class Vector:
 
 </div>
 
-## 🏆 Goals & Aspirations
-
-- 🎓 **Academic**: Maintain excellence in high school while building practical coding skills
-- 💼 **Career**: Secure internships at top quantitative trading firms or fintech companies
-- 🚀 **Projects**: Build a portfolio of innovative financial algorithms and trading systems
-- 🌟 **Impact**: Contribute to open-source financial technology and education
-
 ## 📚 Currently Reading & Learning
 
-- 📖 "Quantitative Trading" by Ernest Chan
-- 📖 "Algorithmic Trading" by Andreas Clenow
-- 🎓 Advanced Statistics and Probability Theory
-- 🔗 Solana Development and DeFi Protocols
-- 📊 Machine Learning for Finance
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-
-**📧 Email**: your.email@example.com
+- Statistical Arbitrage-Algorithmic Trading Insights and Techniques (Pole, Andrew)
 
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 "The best time to plant a tree was 20 years ago. The second best time is now." 
-
-*Starting my quantitative finance journey at 15 - building tomorrow's financial algorithms today! 🚀*
-
-⭐ **Star this repo if you find my journey inspiring!** ⭐
 
 </div>
