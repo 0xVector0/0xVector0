@@ -14,7 +14,6 @@
 
 Passionate 15-year-old student diving deep into **quantitative finance** and **blockchain technology**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
 
-<details>
 <summary><b>💻 My Code Profile</b></summary>
 
 ```python
@@ -29,8 +28,6 @@ class Vector:
     def get_motto(self):
         return "Code the markets, trade the future!"
 ```
-
-</details>
 
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
@@ -59,15 +56,6 @@ class Vector:
 - 📊 **Quantitative Finance:** Statistical Arbitrage, Market Microstructure, Risk Management
 - ⛓️ **Blockchain:** Solana Development, DeFi Protocols, AMM Implementation  
 - 🤖 **Algorithms:** Trading Automation, Order Book Engineering, Arbitrage Detection
-
-</details>
-
-<details>
-<summary><b>🗺️ Learning Roadmap 2025-2026</b></summary>
-
-**Q1 2025:** Statistical Arbitrage Bot • Mini Order Book Engine  
-**Q2 2025:** Triangular Arbitrage on Solana • AMM Simulator  
-**Q3-Q4 2025:** Market Maker Bot • Multi-Exchange Arbitrage • DeFi Yield Optimizer
 
 </details>
 
