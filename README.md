@@ -53,8 +53,3 @@ class Vector:
 
 📚 **Currently Reading:** Statistical Arbitrage - Algorithmic Trading Insights and Techniques (Pole, Andrew)
 
----
-
-<div align="center">
-<i>⭐ Star this repo if you find my journey inspiring! ⭐</i>
-</div>
