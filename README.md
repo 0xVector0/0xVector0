@@ -29,7 +29,6 @@ class Vector:
         return "Code the markets, trade the future!"
 ```
 
-<details>
 <summary><b>🛠️ Tech Stack</b></summary>
 
 <div align="center">
@@ -51,13 +50,6 @@ class Vector:
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 </div>
-
-**Focus Areas:**
-- 📊 **Quantitative Finance:** Statistical Arbitrage, Market Microstructure, Risk Management
-- ⛓️ **Blockchain:** Solana Development, DeFi Protocols, AMM Implementation  
-- 🤖 **Algorithms:** Trading Automation, Order Book Engineering, Arbitrage Detection
-
-</details>
 
 ## 📈 GitHub Stats
 
