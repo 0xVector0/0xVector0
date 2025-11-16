@@ -21,7 +21,7 @@ Hey! I'm a passionate 15-year-old student diving deep into the intersection of *
 class Vector:
     def __init__(self):
         self.age = 15
-        self.location = "🇫🇷"
+        self.location = "🌍"
         self.interests = ["Quantitative Finance", "Blockchain", "Machine Learning"]
         self.goal = "Build working financial algorithms"
         self.currently_learning = ["Statistical arbitrage"]
@@ -60,7 +60,6 @@ class Vector:
 
 ### 📊 Quantitative Finance
 - Statistical Arbitrage
-- Pairs Trading Strategies
 - Market Microstructure
 - Risk Management
 - Backtesting Frameworks
