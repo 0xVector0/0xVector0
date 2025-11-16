@@ -14,7 +14,7 @@
 
 Passionate 15-year-old student diving deep into **quantitative finance** and **blockchain technology**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
 
-<summary><b>💻 My Code Profile</b></summary>
+<b>💻 My Code Profile</b>
 
 ```python
 class Vector:
@@ -29,7 +29,7 @@ class Vector:
         return "Code the markets, trade the future!"
 ```
 
-<summary><b>🛠️ Tech Stack</b></summary>
+<b>🛠️ Tech Stack</b>
 
 <div align="center">
 
@@ -49,12 +49,6 @@ class Vector:
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=0xVector0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 
 📚 **Currently Reading:** Statistical Arbitrage - Algorithmic Trading Insights and Techniques (Pole, Andrew)
