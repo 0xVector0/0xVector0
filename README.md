@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Vector!
 
-### 15-year-old Quantitative Developer & Blockchain Enthusiast
+### Quantitative Developer & Blockchain Enthusiast
 *Building the future of finance, one algorithm at a time*
 
 [![GitHub followers](https://img.shields.io/github/followers/0xVector0?style=social)](https://github.com/0xVector0)
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Passionate 15-year-old student diving deep into **quantitative finance** and **blockchain technology**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
+Passionate High school student diving deep into **quantitative finance** and **blockchain technology**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
 
 <b>💻 My Code Profile</b>
 
