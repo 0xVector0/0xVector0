@@ -12,14 +12,13 @@
 
 ## 🚀 About Me
 
-Passionate High school student diving deep into **quantitative finance** and **blockchain technology**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
+Passionate High school student diving deep into **quantitative finance**, **blockchain technology** and **De-Fi**. Building skills in algorithmic trading, DeFi protocols, and financial modeling.
 
 <b>💻 My Code Profile</b>
 
 ```python
 class Vector:
     def __init__(self):
-        self.age = 15
         self.location = "🌍"
         self.interests = ["Quantitative Finance", "Blockchain", "Machine Learning"]
         self.goal = "Build working financial algorithms"
